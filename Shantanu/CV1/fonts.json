@@ -1,0 +1,36 @@
+{
+    "GenEiExtraLight":
+        "downloaded-fonts/GenEiGothicM/GenEiGothicM-ExtraLight.ttf",
+    "GenEiHeavy":
+        "downloaded-fonts/GenEiGothicM/GenEiGothicM-Heavy.ttf",
+    "GenEiSemiBold":
+        "downloaded-fonts/GenEiGothicN/GenEiGothicN-SemiBold.otf",
+    "Gothic":
+        "/Library/Fonts/AppleGothic.ttf",
+    "HonyaJi":
+        "downloaded-fonts/HonyaJi-Re.ttf",
+    "Lantinghei":
+        "/Library/Fonts/Lantinghei.ttc",
+    "MPlusBold":
+        "downloaded-fonts/mplus-TESTFLIGHT-061/mplus-1c-bold.ttf",
+    "MPlusRegular":
+        "downloaded-fonts/mplus-TESTFLIGHT-061/mplus-2m-regular.ttf",
+    "MPlusThin":
+        "downloaded-fonts/mplus-TESTFLIGHT-061/mplus-2p-thin.ttf",
+    "Mamelon":
+        "downloaded-fonts/mamelon/Mamelon.otf",
+    "Meiryo":
+        "/Library/Fonts/Microsoft/Meiryo.ttf",
+    "Mincho":
+        "/Library/Fonts/Microsoft/MS Mincho.ttf",
+    "Osaka":
+        "/Library/Fonts/Osaka.ttf",
+    "STFangSong":
+        "/Library/Fonts/华文仿宋.ttf",
+    "WawaSC":
+        "/Library/Fonts/WawaSC-Regular.otf",
+    "WeibeiSC":
+        "/Library/Fonts/WeibeiSC-Bold.otf",
+    "Yuanti":
+        "/Library/Fonts/Yuanti.ttc"
+}
