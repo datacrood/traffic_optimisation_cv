@@ -8,16 +8,12 @@ options={
    'load':'./bin/yolov2.weights',   #weights
    'threshold':0.3                  #minimum confidence factor to create a box, greater than 0.3 good
 }
-print("COde1")
 tfnet=TFNet(options)
-print("COde2")
 inputPath = os.getcwd() + "/test_images/"
-print("COde3")
 outputPath = os.getcwd() + "/output_images/"
-print("COde4")
 def detectVehicles(filename):
    global tfnet, inputPath, outputPath
-   img=cv2.imread(inputPath+filename,cv2.IMREAD_COLOR)
+   img=cv2.imread(inputPath+filename,cv2.IMREAD_COLOR).astype(object)
    # img=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
    result=tfnet.return_predict(img)
    # print(result)

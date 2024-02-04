@@ -17,7 +17,7 @@ class Layer(object):
         for var in self.wshape:
             shp = self.wshape[var]
             size = np.prod(shp)
-            self.wsize[var] = size
+            self.wsize[var] = siz
 
     def load(self, src_loader):
         var_lay = src_loader.VAR_LAYER

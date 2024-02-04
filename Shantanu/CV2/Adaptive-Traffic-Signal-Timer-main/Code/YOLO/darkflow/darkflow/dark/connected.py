@@ -42,7 +42,6 @@ class extract_layer(Layer):
         self.w['biases'] = b
     
 
-
 class select_layer(Layer):
     def setup(self, inp, old, 
               activation, inp_idx,
